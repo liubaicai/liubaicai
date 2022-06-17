@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🤔我一个好好的接班人，怎么就跑来当程序员了呢？
+
 <!--
 **liubaicai/liubaicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +20,4 @@ Here are some ideas to get you started:
 <!--
 [![liubaicai stats](https://github-readme-stats.vercel.app/api?username=liubaicai)](https://github.com/liubaicai)
 -->
+![Visitor Count](https://profile-counter.glitch.me/liubaicai/count.svg)
