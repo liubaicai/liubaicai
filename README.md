@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔我一个好好的接班人，怎么就跑来当程序员了呢？
+- 一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的进程。🤔
 
 <!--
 **liubaicai/liubaicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
