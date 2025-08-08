@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 [![liubaicai stats](https://github-readme-stats.vercel.app/api?username=liubaicai)](https://github.com/liubaicai)
--->
-![Visitor Count](https://profile-counter.glitch.me/liubaicai/count.svg)
